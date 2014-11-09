@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72180E23-156F-40D7-99FB-8DD48BBDF8DA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Zombies</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>e983b879-bafe-4620-9673-a86a04395fac</key>
+		<string>http://162.243.195.175/svn/Zombies</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/Zombies.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>e983b879-bafe-4620-9673-a86a04395fac</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>e983b879-bafe-4620-9673-a86a04395fac</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>e983b879-bafe-4620-9673-a86a04395fac</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Zombies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
